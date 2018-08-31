@@ -1,0 +1,14 @@
+C:\TFS\Git\Framework\Projeto\Framework.Data.Repositorio\bin\Release\netcoreapp2.0\Framework.Data.Repositorio.deps.json
+C:\TFS\Git\Framework\Projeto\Framework.Data.Repositorio\bin\Release\netcoreapp2.0\Framework.Data.Repositorio.dll
+C:\TFS\Git\Framework\Projeto\Framework.Data.Repositorio\bin\Release\netcoreapp2.0\Framework.Data.Repositorio.pdb
+C:\TFS\Git\Framework\Projeto\Framework.Data.Repositorio\bin\Release\netcoreapp2.0\Framework.Dominio.Base.dll
+C:\TFS\Git\Framework\Projeto\Framework.Data.Repositorio\bin\Release\netcoreapp2.0\Framework.Validator.dll
+C:\TFS\Git\Framework\Projeto\Framework.Data.Repositorio\bin\Release\netcoreapp2.0\Framework.Dominio.Base.pdb
+C:\TFS\Git\Framework\Projeto\Framework.Data.Repositorio\bin\Release\netcoreapp2.0\Framework.Validator.pdb
+C:\TFS\Git\Framework\Projeto\Framework.Data.Repositorio\obj\Release\netcoreapp2.0\Framework.Data.Repositorio.csprojAssemblyReference.cache
+C:\TFS\Git\Framework\Projeto\Framework.Data.Repositorio\obj\Release\netcoreapp2.0\Framework.Data.Repositorio.csproj.CoreCompileInputs.cache
+C:\TFS\Git\Framework\Projeto\Framework.Data.Repositorio\obj\Release\netcoreapp2.0\Framework.Data.Repositorio.AssemblyInfoInputs.cache
+C:\TFS\Git\Framework\Projeto\Framework.Data.Repositorio\obj\Release\netcoreapp2.0\Framework.Data.Repositorio.AssemblyInfo.cs
+C:\TFS\Git\Framework\Projeto\Framework.Data.Repositorio\obj\Release\netcoreapp2.0\Framework.Data.Repositorio.csproj.CopyComplete
+C:\TFS\Git\Framework\Projeto\Framework.Data.Repositorio\obj\Release\netcoreapp2.0\Framework.Data.Repositorio.dll
+C:\TFS\Git\Framework\Projeto\Framework.Data.Repositorio\obj\Release\netcoreapp2.0\Framework.Data.Repositorio.pdb

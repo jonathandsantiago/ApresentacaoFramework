@@ -1,0 +1,16 @@
+C:\TFS\Git\Framework\Projeto\Framework.Data.Nhibernate\bin\Release\netcoreapp2.0\Framework.Data.Nhibernate.deps.json
+C:\TFS\Git\Framework\Projeto\Framework.Data.Nhibernate\bin\Release\netcoreapp2.0\Framework.Data.Nhibernate.dll
+C:\TFS\Git\Framework\Projeto\Framework.Data.Nhibernate\bin\Release\netcoreapp2.0\Framework.Data.Nhibernate.pdb
+C:\TFS\Git\Framework\Projeto\Framework.Data.Nhibernate\bin\Release\netcoreapp2.0\Framework.Dominio.Base.dll
+C:\TFS\Git\Framework\Projeto\Framework.Data.Nhibernate\bin\Release\netcoreapp2.0\Framework.Helper.dll
+C:\TFS\Git\Framework\Projeto\Framework.Data.Nhibernate\bin\Release\netcoreapp2.0\Framework.Validator.dll
+C:\TFS\Git\Framework\Projeto\Framework.Data.Nhibernate\bin\Release\netcoreapp2.0\Framework.Dominio.Base.pdb
+C:\TFS\Git\Framework\Projeto\Framework.Data.Nhibernate\bin\Release\netcoreapp2.0\Framework.Helper.pdb
+C:\TFS\Git\Framework\Projeto\Framework.Data.Nhibernate\bin\Release\netcoreapp2.0\Framework.Validator.pdb
+C:\TFS\Git\Framework\Projeto\Framework.Data.Nhibernate\obj\Release\netcoreapp2.0\Framework.Data.Nhibernate.csprojAssemblyReference.cache
+C:\TFS\Git\Framework\Projeto\Framework.Data.Nhibernate\obj\Release\netcoreapp2.0\Framework.Data.Nhibernate.csproj.CoreCompileInputs.cache
+C:\TFS\Git\Framework\Projeto\Framework.Data.Nhibernate\obj\Release\netcoreapp2.0\Framework.Data.Nhibernate.AssemblyInfoInputs.cache
+C:\TFS\Git\Framework\Projeto\Framework.Data.Nhibernate\obj\Release\netcoreapp2.0\Framework.Data.Nhibernate.AssemblyInfo.cs
+C:\TFS\Git\Framework\Projeto\Framework.Data.Nhibernate\obj\Release\netcoreapp2.0\Framework.Data.Nhibernate.csproj.CopyComplete
+C:\TFS\Git\Framework\Projeto\Framework.Data.Nhibernate\obj\Release\netcoreapp2.0\Framework.Data.Nhibernate.dll
+C:\TFS\Git\Framework\Projeto\Framework.Data.Nhibernate\obj\Release\netcoreapp2.0\Framework.Data.Nhibernate.pdb
